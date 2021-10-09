@@ -1,0 +1,12 @@
+expected:
+  dev:
+    chartVersion: 0.0.1946
+
+  int:
+    chartVersion: 0.0.1945
+  
+  staging:
+    chartVersion: 0.0.1920
+
+  prod:
+    chartVersion: 0.0.1920
